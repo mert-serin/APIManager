@@ -1,0 +1,6 @@
+use_frameworks!
+target 'APIManager_Tests' do
+  pod 'APIManager', :path => '../'
+  
+  
+end
