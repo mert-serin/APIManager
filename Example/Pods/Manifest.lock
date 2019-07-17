@@ -1,0 +1,16 @@
+PODS:
+  - APIManager (0.1.0)
+
+DEPENDENCIES:
+  - APIManager (from `../`)
+
+EXTERNAL SOURCES:
+  APIManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  APIManager: deb373d45577558ca81880f9022a3ec4c134129f
+
+PODFILE CHECKSUM: cce101c7b8a4b850c207a9f81ccedfd5a3f1bd07
+
+COCOAPODS: 1.7.4
