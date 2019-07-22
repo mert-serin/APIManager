@@ -7,7 +7,7 @@
 
 import Foundation
 
-class APIManagerConfiguration{
+open class APIManagerConfiguration{
     static let shared = APIManagerConfiguration()
-    var baseURL:String = ""
+    open var baseURL:String = ""
 }
